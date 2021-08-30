@@ -1,1 +1,1 @@
-# uva-accepted-solutions
+# Accepted Solutions
